@@ -23,8 +23,11 @@ public class BooksTests {
 	    Use GivenDatas.givenBooks() for testing 
 	 	
 	 4- Method taking list of students and return new list of students
-	 	- filterd by age > 20 && having at least one book with price > 30
+	 	- filtered by age > 20 && having at least one book with price > 30
 	 	- sorted by age, if the ages are equal then sort by names in reversed alphabetic order
 	 	Use GivenDatas.givenStudents() for testing
 	 */
+	
+	//TODO implements methods described above
+	
 }

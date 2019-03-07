@@ -16,9 +16,9 @@
 	<description>java medium exercise</description>
 	
 	<scm>
-		<url>https://github.com/pedro92/java-books</url>
-		<connection>scm:git:git://github.com/pedro92/java-books.git</connection>
-		<developerConnection>scm:git:git@pedro92/java-books.git</developerConnection>
+		<url>https://github.com/FELIPETCS/Java8</url>
+		<connection>scm:git:git://github.com/FELIPETCS/Java8.git</connection>
+		<developerConnection>scm:git:git@FELIPETCS/Java8.git</developerConnection>
 	</scm>
 
 	<properties>
